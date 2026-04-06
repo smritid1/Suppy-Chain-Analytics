@@ -1,1 +1,1 @@
-# Suppy-Chain-Anaytics
+# Suppy-Chain-Analytics
