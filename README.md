@@ -1,6 +1,6 @@
-#Supply Chain Analytics Dashboard (Tableau & Power BI)
+# Supply Chain Analytics Dashboard (Tableau & Power BI)
 
-##Project Overview
+## Project Overview
 This project focuses on analyzing **supply chain performance**, particularly shipment delays and inventory management, using **Tableau** and **Power BI**.
 
 The goal was to identify inefficiencies, uncover trends, and provide actionable insights to improve business operations and decision-making.
