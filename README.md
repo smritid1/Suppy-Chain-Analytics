@@ -56,7 +56,7 @@ The goal was to identify inefficiencies, uncover trends, and provide actionable 
 
 ---
 
-## ⚠️ Key Problems Identified
+## Key Problems Identified
 
 ### 1. Shipment Issues
 - Frequent delays  
@@ -71,7 +71,7 @@ The goal was to identify inefficiencies, uncover trends, and provide actionable 
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### Shipment Dashboard
 - Shipment delay trends  
@@ -95,5 +95,5 @@ By optimizing inventory and improving shipment processes, businesses can:
 
 ---
 
-## 👤 Author
+## Author
 Data Analyst | Tableau & Power BI Enthusiast
